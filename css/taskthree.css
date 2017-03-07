@@ -1,0 +1,41 @@
+* {
+	padding: 0px;
+    margin: 0px;
+}
+.amian{
+    background-color:#eee;
+    height:800px;
+    }
+#left{
+	width: 200px;
+	height: 120px;
+	float: left;
+	background-color: white;
+	margin:20px;
+	border: #999999 1px solid;
+}
+#right{
+	width: 120px;
+	float: right;
+	background-color: white;
+	text-align: center;
+	margin: 20px;
+	border: #999999 1px solid;
+}
+.mainoneone{
+	margin: 20px 100px 20px 20px;
+	border: 1px solid #999999;
+}
+.mainonetwo{
+	margin: 20px;
+	border: 1px solid #999;
+}
+#meizhao{
+	position: absolute;
+	left: 220px;
+	right: 140px;
+	margin: 20px;
+	background-color: white;
+	border: #999999 1px solid;
+	padding: 20px;
+}
